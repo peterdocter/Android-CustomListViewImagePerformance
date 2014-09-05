@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="my_image_array">
+        <item>@drawable/aerithgainsborough</item>
+        <item>@drawable/barretwallace</item>
+        <item>@drawable/caitsith</item>
+        <item>@drawable/cidhighwind</item>
+        <item>@drawable/cloudstrife</item>
+        <item>@drawable/elena</item>
+        <item>@drawable/elfe</item>
+        <item>@drawable/fuhito</item>
+        <item>@drawable/gun</item>
+        <item>@drawable/heidegger</item>
+        <item>@drawable/katana</item>
+        <item>@drawable/knife</item>
+        <item>@drawable/martialartsf</item>
+        <item>@drawable/martialartsm</item>
+        <item>@drawable/nunchaku</item>
+        <item>@drawable/presidentshinra</item>
+        <item>@drawable/professorhojo</item>
+        <item>@drawable/redxiii</item>
+        <item>@drawable/reevetuesti</item>
+        <item>@drawable/renosinclair</item>
+        <item>@drawable/rod</item>
+        <item>@drawable/rude</item>
+        <item>@drawable/rufusshinra</item>
+        <item>@drawable/scarlet</item>
+        <item>@drawable/sears</item>
+        <item>@drawable/sephiroth</item>
+        <item>@drawable/shalva</item>
+        <item>@drawable/shotgun</item>
+        <item>@drawable/shuriken</item>
+        <item>@drawable/tifalockhart</item>
+        <item>@drawable/tseng</item>
+        <item>@drawable/twoguns</item>
+        <item>@drawable/verdot</item>
+        <item>@drawable/vincentvalentine</item>
+        <item>@drawable/yuffiekisaragi</item>
+        <item>@drawable/zackfair</item>
+    </string-array>
+
+    <string-array name="my_string_array">
+        <item>Aerith Gainsborough</item>
+        <item>Barret Wallace</item>
+        <item>Cait Sith</item>
+        <item>Cid Highwind</item>
+        <item>Cloud Strife</item>
+        <item>Elena</item>
+        <item>Elfe</item>
+        <item>Fuhito</item>
+        <item>Gun</item>
+        <item>Heidegger</item>
+        <item>Katana</item>
+        <item>Knife</item>
+        <item>Martial Arts F</item>
+        <item>Martial Arts M</item>
+        <item>Nunchaku</item>
+        <item>President Shinra</item>
+        <item>Professor Hojo</item>
+        <item>Red XIII</item>
+        <item>Reeve Tuesti</item>
+        <item>Reno Sinclair</item>
+        <item>Rod</item>
+        <item>Rude</item>
+        <item>Rufus Shinra</item>
+        <item>Scarlet</item>
+        <item>Sears</item>
+        <item>Sephiroth</item>
+        <item>Shalva</item>
+        <item>Shotgun</item>
+        <item>Shuriken</item>
+        <item>Tifa Lockhart</item>
+        <item>Tseng</item>
+        <item>Two Guns</item>
+        <item>Verdot</item>
+        <item>Vincent Valentine</item>
+        <item>Yuffie Kisaragi</item>
+        <item>Zack Fair</item>
+    </string-array>
+    
+    <color name="blue">#32E0FF</color>
+    <color name="yellow">#FFE432</color>
+
+</resources>
